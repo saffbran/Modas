@@ -1,0 +1,69 @@
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.deps.json
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.json
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.dev.json
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.dll
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csprojAssemblyReference.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CoreCompileInputs.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cs
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfoInputs.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfo.cs
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.input.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.output.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorCoreGenerate.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cache
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cs
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bsaffert\Desktop\Modas-Public-Lesson_02\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CopyComplete
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.deps.json
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.json
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.dev.json
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.dll
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cs
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfo.cs
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.input.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.output.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorCoreGenerate.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bitstudent\Downloads\Modas Pagination\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CopyComplete
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.deps.json
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.json
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.runtimeconfig.dev.json
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.dll
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\bin\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csprojAssemblyReference.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorAssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfoInputs.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.AssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.input.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.TagHelpers.output.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorCoreGenerate.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cache
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.RazorTargetAssemblyInfo.cs
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.Views.pdb
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.dll
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.pdb
+C:\Users\bitstudent\Desktop\Modas Pagination\Modas-Public-Lesson_02\obj\Debug\netcoreapp2.1\Modas.csproj.CopyComplete
